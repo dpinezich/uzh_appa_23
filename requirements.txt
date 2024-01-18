@@ -5,3 +5,13 @@ pandas
 flask
 plotly
 openpyxl
+dash_bootstrap_components
+dash_bootstrap_templates
+gunicorn
+dash
+FlightRadarAPI
+bokeh
+pygal
+matplotlib
+seaborn
+numpy
