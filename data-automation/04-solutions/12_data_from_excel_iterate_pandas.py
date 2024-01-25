@@ -8,5 +8,5 @@ df = pandas.read_excel(open('ch-bevoelkerung.xlsx', 'rb'),
 
 # print(df.describe())
 # print(df['Einwohnerinnen und Einwohner'])
-print(df['Einwohnerinnen und Einwohner']['Aeugst'])
+# print(df['Einwohnerinnen und Einwohner']['Aeugst'])
 

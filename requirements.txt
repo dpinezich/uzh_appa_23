@@ -15,3 +15,5 @@ pygal
 matplotlib
 seaborn
 numpy
+opencv-python
+pillow
